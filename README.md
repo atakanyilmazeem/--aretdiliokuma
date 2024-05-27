@@ -1,0 +1,1 @@
+Projemin amacı kamera açıldığına parmak işaretleriyle gösterilen harfin tanımlanması. Projemde opencv kütüphanesi ile görüntüyü işleyip keras kütüphanesini içerisinden cnn modeli ile modelimi oluşturdum. Oluşturduğum modeli qtdesigner kullanarak masaüstü uygulaması haline getirdim.
